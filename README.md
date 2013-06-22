@@ -17,5 +17,11 @@ int
 ```
 python
 
+Open Source is always free, so do us.
+
 Copyright:
-(t193r Community / PT. Sagara Xinix Solusitama)
+
+```apa le haruuuuhhhhhhhhhhhh
+    (t193r Community / PT. Sagara Xinix Solusitama)
+```
+
