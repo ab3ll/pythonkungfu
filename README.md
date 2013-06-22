@@ -1,4 +1,4 @@
-# Python Kungfu Class by krisanalfa
+# Python Kungfu Class by krisanalfa;
 
 ![alt text](http://www.python.org/community/logos/python-powered-w-200x80.png "Python")
 
@@ -10,9 +10,12 @@ Python is also usable as an extension language for applications written in other
 
 This repo is dedicated for t193r Community. If you want to join with this class, plase read
 
-```
+```string
+int
+
     participants/README.md
 ```
+python
 
 Copyright:
 (t193r Community / PT. Sagara Xinix Solusitama)
